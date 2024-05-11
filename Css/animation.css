@@ -1,0 +1,99 @@
+@keyframes progressAnimation1 {
+  0% {
+    width: 0;
+  }
+
+
+  100% {
+    width: 90%;
+  }
+
+}
+@keyframes progressAnimation2 {
+  0% {
+    width: 0;
+  }
+
+
+  100% {
+    width: 80%;
+  }
+
+
+}
+@keyframes progressAnimation3 {
+  0% {
+    width: 0;
+  }
+
+
+  100% {
+    width: 95%;
+  }
+
+
+}
+
+
+@keyframes typing {
+    0% {content: "|"}
+    0.93% {content: "L|"}
+    1.86% {content: "La|"}
+    2.79% {content: "Lar|"}
+    3.72% {content: "Larr|"}
+    4.65% {content: "Larry|"}
+    5.58% {content: "Larry |"}
+    6.51% {content: "Larry D|"}
+    7.44% {content: "Larry Da|"}
+    8.37% {content: "Larry Dan|"}
+    9.3% {content: "Larry Dani|"}
+    10.23% {content: "Larry Danie|"}
+    11.16% {content: "Larry Daniel|"}
+    22.16% {content: "Larry Daniel|"}
+    23.09% {content: "Larry Dani|"}
+    24.02% {content: "Larry Dan|"}
+    24.95% {content: "Larry Da|"}
+    25.88% {content: "Larry D|"}
+    26.81% {content: "Larry |"}
+    27.74% {content: "Larry|"}
+    28.67% {content: "Larr|"}
+    29.6% {content: "Lar|"}
+    30.53% {content: "La|"}
+    31.46% {content: "|"}
+    35.18% {content: "D|"}
+    36.42% {content: "De|"}
+    37.66% {content: "Dev|"}
+    38.9% {content: "Deve|"}
+    40.14% {content: "Devel|"}
+    41.38% {content: "Develo|"}
+    42.62% {content: "Develop|"}
+    43.86% {content: "Develope|"}
+    45.1% {content: "Developer|"}
+    56.1% {content: "Developer|"}
+    57.34% {content: "Develope|"}
+    58.58% {content: "Develop|"}
+    59.82% {content: "Develo|"}
+    61.06% {content: "Devel|"}
+    62.3% {content: "Deve|"}
+    63.54% {content: "Dev|"}
+    64.78% {content: "De|"}
+    66.02% {content: "D|"}
+    67.26% {content: "|"}
+    68.65% {content: "D|"}
+    70.04% {content: "De|"}
+    71.43% {content: "Des|"}
+    72.82% {content: "Desi|"}
+    74.21% {content: "Desig|"}
+    75.6% {content: "Design|"}
+    76.99% {content: "Designe|"}
+    78.38% {content: "Designer|"}
+    89.38% {content: "Designer|"}
+    90.77% {content: "Designe|"}
+    92.16% {content: "Design|"}
+    93.55% {content: "Desig|"}
+    94.94% {content: "Desi|"}
+    96.33% {content: "Des|"}
+    97.72% {content: "De|"}
+    99.11% {content: "D|"}
+    100% {content: "|"}
+}
